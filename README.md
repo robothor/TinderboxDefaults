@@ -8,4 +8,4 @@ Changes that I've made here:
 - menus.xml: removed the default layout and added the solarized colors, grouped into the dark, light and accent color groups
 - html_helpers.xml: added Sublime Text 2 as a helper
 
-These need to be installed into the application bundle itself in `/Applications/Tinderbox.app/Contents/MacOS/config/`.
+These need to be installed into `~Library/Application Support/Tinderbox/`.
